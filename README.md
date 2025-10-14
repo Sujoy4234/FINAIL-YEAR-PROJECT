@@ -1,4 +1,5 @@
-🌱 Plant Disease Detection
+🌱 Plant Disease Detection 
+https://drive.google.com/drive/folders/1bRRn8LRpY19VmiABI2PwmSrAgyhGh6Rw?usp=sharing
 Overview
 This repository hosts the code for a Plant Disease Detection application, which utilizes a trained machine learning model to identify common diseases in plants from uploaded images. The goal is to provide a quick, accessible, and user-friendly tool for farmers, gardeners, and enthusiasts to diagnose plant health issues.
 
